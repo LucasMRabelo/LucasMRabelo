@@ -6,15 +6,8 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado.
+     
   </p>
   
   <p align="center">
